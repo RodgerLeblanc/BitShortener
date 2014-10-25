@@ -2,6 +2,8 @@ BitShortener(beginner)
 =========
 
 This BB10 app is a Bit.ly client. Use at your own risk!
+
+
 Features :
 - Compatible with 10.2 and up (can be compatible with 10.0 if you want, I don't have API lower than 10.2 installed)
 - Complete rewrite, tried to use the best coding practice I know (SIGNAL/SLOT, Q_PROPERTY, property, classes, custom QML components, #define, etc.)
